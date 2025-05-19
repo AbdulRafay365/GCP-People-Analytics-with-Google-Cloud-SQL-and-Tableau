@@ -31,7 +31,7 @@ FROM 'C:\Program Files\PostgreSQL\17\Project Data\Source_Staff.csv'
 
 -- b) Attrition
 TRUNCATE bronze.attrition;
-COPY bronze.staff
+COPY bronze.attrition
 FROM 'C:\Program Files\PostgreSQL\17\Project Data\Source_Attrition.csv'
 	DELIMITER ',' 
 	CSV HEADER;
