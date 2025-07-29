@@ -15,6 +15,10 @@
 
 ## About the Project
 
+<div align="center">
+  <img width="200" height="200" alt="project-logo" src="https://github.com/user-attachments/assets/cfdfd4a4-ad09-4e63-b487-76f975ded2c4" />
+</div>
+
 In this project, I explored the domain of **People Analytics**, emphasizing its value in making data-driven decisions about a company’s most critical resource — its people. 
 
 Through this journey, I:
