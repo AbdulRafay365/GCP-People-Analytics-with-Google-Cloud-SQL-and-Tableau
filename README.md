@@ -135,6 +135,51 @@ Like any agile process, a good strategy is **iterative**. Use:
 
 ---
 
+## Sections  
+
+### 1. Process  
+- **Dataset**: Started with ~9,000 records in a flat structure.  
+- **Database Design**:  
+  - Created a **star schema** (fact/dimension tables) for optimized analytics.  
+  - Designed the ERD using **SmartDraw**.  
+  - Implemented the schema via **PostgreSQL** (using PG Admin).  
+- **ETL Pipeline**:  
+  - Loaded raw data into a staging table.  
+  - Transformed/cleaned data before loading into the star schema.  
+- **Scalability & Cloud Migration**:  
+  - Migrated the database to **Google Cloud SQL** for accessibility and reporting.  
+
+### 2. Analytics & Reporting  
+- **SQL Reports**: Wrote 15 SQL queries to answer key business questions.  
+- **Visualization**:  
+  - Initially planned to use **Looker** (GCP integration issues prevented this).  
+  - Switched to **Tableau**, built a semantic model, and designed an interactive dashboard.  
+  - Dashboard features:  
+    - Personnel demographics (gender, age, education).  
+    - Income trends by location/role.  
+    - Other HR-centric KPIs.  
+
+### 3. Development Approach  
+- **Agile (Scrum)**:  
+  - 4 iterations (1 day each) due to time constraints.  
+  - Focused on incremental improvements (data model → reports → dashboard).  
+- **Inspiration**:  
+  - Credit to [Data With Baraa](https://www.youtube.com/@DataWithBaraa) for dashboard design ideas.  
+
+### 4. Tools & Technologies  
+- **Database**: PostgreSQL (local + Google Cloud SQL).  
+- **Design**: SmartDraw (ERD).  
+- **ETL**: SQL scripts for staging → star schema.  
+- **Visualization**: Tableau.  
+
+---
+
+## Key Outcomes  
+- Optimized star schema database for analytics.  
+- Shareable cloud-hosted SQL reports.  
+- Interactive Tableau dashboard for HR insights.  
+<img width="2280" height="1122" alt="image" src="https://github.com/user-attachments/assets/2578d354-6122-4d52-acae-ff13444934a8" />
+
 > _"Without data, you're just another person with an opinion."_  
 > — W. Edwards Deming
 
