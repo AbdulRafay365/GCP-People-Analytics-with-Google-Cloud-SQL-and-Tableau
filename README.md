@@ -72,36 +72,6 @@ _Source: [Visier](https://www.visier.com/people-analytics/#what-is-people-analyt
   <img src="https://github.com/user-attachments/assets/128a0e5e-daa7-47b0-90b9-70b368602771" alt="people-analytics-strategy" />
 </div>
 
-### Key Components:
-
-#### 1. **Identify Core HR Problems**
-Start with clearly defined objectives. Examples include:
-- Reducing voluntary attrition
-- Improving DEI metrics
-- Enhancing new hire retention
-
-Avoid trying to solve everything at once — prioritize based on business impact.
-
-#### 2. **Audit Data Sources & Gaps**
-Evaluate:
-- Are your data sources comprehensive?
-- Is the data recent, reliable, and clean?
-- What additional data would help solve the problem?
-
-#### 3. **Translate Insights into Actions**
-People analytics isn't just an HR function. Involve:
-- Line managers  
-- Business leaders  
-- Cross-functional teams  
-
-Share insights organization-wide for better alignment and faster execution.
-
-#### 4. **Monitor, Learn, and Evolve**
-Like any agile process, a good strategy is **iterative**. Use:
-- KPIs to track performance  
-- Feedback loops to improve analysis  
-- Regular updates to expand data coverage
-
 ---
 
 ## Tools & Technologies Used
